@@ -21,4 +21,5 @@ Esse projeto se trata de uma dashboard descritiva referente a uma empresa no ram
 - Previsão de Vendas do Ano seguinte (2019) 
 
 
+**Fonte da Base de Dados:** Curso POWER BI & SQLSERVER - Professor Danilo Yto
 
